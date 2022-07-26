@@ -1,0 +1,4 @@
+com\wtia\WTIA_Rest_API\controller\WtiaController.class
+com\wtia\WTIA_Rest_API\config\AppConfig.class
+com\wtia\WTIA_Rest_API\controller\AvatarController.class
+com\wtia\WTIA_Rest_API\config\SpringMvcDispatcherServletInitializer.class
